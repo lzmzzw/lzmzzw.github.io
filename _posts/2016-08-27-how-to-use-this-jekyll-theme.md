@@ -24,10 +24,10 @@ tag: 教程
 下载							{#Download}
 ------------------------------------
 
-使用git从[LessOrMore](https://github.com/luoyan35714/LessOrMore.git)主页下载项目
+使用git从[LessOrMore](https://github.com/lzmzzw/lzmzzw.github.io.git)主页下载项目
 
 ```bash
-git clone https://github.com/luoyan35714/LessOrMore.git
+git clone https://github.com/lzmzzw/lzmzzw.github.io.git
 ```
 
 配置							{#Configuration}
@@ -43,7 +43,7 @@ email: 邮箱地址
 author: 作者名
 url: 个人网站
 ### baseurl修改为项目名，如果项目是'***.github.io'，则设置为空''
-baseurl: "/LessOrMore"
+baseurl: ""
 resume_site: 个人简历网站
 github: github地址
 github_username: github用户名称
