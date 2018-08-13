@@ -15,7 +15,7 @@ permlink: /method
 <hr>
 您可以选择手机支付宝扫一扫
 
-![支付宝二维码付款给LZ]({{ '/styles/images/zhifubao.png' | prepend: site.baseurl }})
+![支付宝二维码付款给LZ]({{ '/styles/images/zhifubao.jpg' | prepend: site.baseurl }})
 
 <br>
 <br>
@@ -26,7 +26,7 @@ permlink: /method
 <hr>
 您可以选择手机微信扫一扫
 
-![微信二维码付款给LZ]({{ '/styles/images/weixin.png' | prepend: site.baseurl }})
+![微信二维码付款给LZ]({{ '/styles/images/weixin.jpg' | prepend: site.baseurl }})
 
 <br>
 <br>
