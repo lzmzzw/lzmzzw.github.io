@@ -16,13 +16,13 @@ header: 打赏
 
 <hr>
 
-赞助方式一：`支付宝付款`
+赞助方式一：`支付宝二维码付款`
 ------------------------------
 
 <hr>
 您可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.png' | prepend: site.baseurl }}" alt="支付宝二维码付款给LZ" width="310" />
+![支付宝二维码付款给LZ]({{ '/styles/images/zhifubao.png' | prepend: site.baseurl }})
 
 <br>
 <br>

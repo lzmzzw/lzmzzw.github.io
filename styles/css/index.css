@@ -6320,13 +6320,16 @@ hr {
 }
 /* Page headers */
 .docs-header {
-  padding: 30px 15px 50px;
+  padding: 5px 15px 10px;
   /* side padding builds on .container 15px, so 30px */
   font-size: 16px;
   text-align: center;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
 }
 .docs-header h1 {
+  color: #fff;
+}
+.docs-header h2 {
   color: #fff;
 }
 .docs-header p {

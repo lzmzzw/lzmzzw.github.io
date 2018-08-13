@@ -1,15 +1,14 @@
 # Site settings
-name: My Blog
+name: LiZheng's Blog
 email: lzmzzw@gmail.com
 author: Li Zheng
 url: http://www.lzmzzw.com
 resume_site: http://www.lzmzzw.com/Resume.io/
 github: https://github.com/lzmzzw/
 baseurl: ""
-description: 学习笔记
-meta_description: 个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+#description: 学习笔记
+meta_description: Blog;Github Pages;jekyll
+motto: Talk is cheap. Show me the code.
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
