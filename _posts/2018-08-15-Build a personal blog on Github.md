@@ -3,11 +3,8 @@
 layout: post
 title:  利用Jekyll在Github上建立个人博客
 date:   2018-08-15 10:15:00 +0800
-categories: 
-- Git
-tag: 
-- Github Pages
-- jekyll
+categories: Git
+tag: Github Pages
 
 ---
 
@@ -97,7 +94,7 @@ tag:
 
  - 在博文下添加评论区域，[Disqus][9]。
 
- - 使用百度统计对网页流浪进行统计，[百度统计][10]。
+ - 使用百度统计对网页流量进行统计，[百度统计][10]。
 
 
   [1]: https://okayjam.com/
