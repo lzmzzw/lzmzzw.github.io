@@ -28,11 +28,11 @@ Git工具与Github网站使用可以参考[Git教程][3]、[Github教程][4]。
 
 ### 2 本地Jekyll部署
 
-1. 安装Ruby，Windows可以直接下载[RubyInstaller][5]进行安装。在终端运行命令`ruby -v`，如终端能输出ruby版本信息，则安装成功。
+1. 安装Ruby，Windows可以直接下载[RubyInstaller][5](WITH DEVKIT版本)进行安装。在终端运行命令`ruby -v`，如终端能输出ruby版本信息，则安装成功。
 
 2. 安装[RubyGems][6]，下载压缩包并解压，从终端进入解压路径，运行`ruby setup.rb`命令完成RubyGems安装。
 
-3. 安装Jekyll，运行命令`gem install jekyll`
+3. 安装Jekyll，在RubyGems路径下运行命令`gem install jekyll`
 
 ### 3 jekyll文件目录结构
 
