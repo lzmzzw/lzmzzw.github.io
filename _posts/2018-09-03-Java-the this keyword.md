@@ -3,7 +3,7 @@
 layout: post
 title:  Java零基础（2）--this关键字
 date:   2018-09-03 17:15:00 +0800
-categories: Java
+categories: Java基础
 tag: this keyword
 
 ---
