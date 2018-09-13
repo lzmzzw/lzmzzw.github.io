@@ -3,8 +3,8 @@
 layout: post
 title:  利用Jekyll在Github上建立个人博客
 date:   2018-08-15 10:15:00 +0800
-categories: Git
-tag: Github Pages
+categories: Notes
+tag: jekyll
 
 ---
 

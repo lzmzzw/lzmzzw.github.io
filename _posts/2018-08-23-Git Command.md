@@ -3,8 +3,8 @@
 layout: post
 title:  Git命令整理
 date:   2018-08-23 10:45:00 +0800
-categories: Git
-tag: Git Command
+categories: Notes
+tag: Git
 
 ---
 

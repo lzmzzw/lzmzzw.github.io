@@ -3,8 +3,8 @@
 layout: post
 title:  指定Spring Boot工程启动类
 date:   2018-09-12 13:45:00 +0800
-categories: [Spring Boot]
-tag: Tips
+categories: Java
+tag: [Spring Boot]
 
 ---
 

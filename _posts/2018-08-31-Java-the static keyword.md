@@ -3,8 +3,8 @@
 layout: post
 title:  Java零基础（1）--static关键字
 date:   2018-08-31 10:00:00 +0800
-categories: Java基础
-tag: static keyword
+categories: Java
+tag: Java基础
 
 ---
 

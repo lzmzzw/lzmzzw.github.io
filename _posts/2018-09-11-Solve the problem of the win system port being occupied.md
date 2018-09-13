@@ -3,8 +3,8 @@
 layout: post
 title:  解决win系统端口被占用问题
 date:   2018-09-11 14:20:00 +0800
-categories: Windows
-tag: Tips
+categories: Tips
+tag: Windows
 
 ---
 

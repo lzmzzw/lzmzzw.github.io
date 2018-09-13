@@ -3,8 +3,8 @@
 layout: post
 title:  解决MySQL配置账号密码遇到的错误
 date:   2018-09-11 14:15:00 +0800
-categories: MySQL
-tag: Tips
+categories: Tips
+tag: MySQL
 
 ---
 
