@@ -59,6 +59,8 @@ git mv file1 file2                                          # 重命名文件fil
 git stash                                                   # 暂存当前修改，将工作区置为HEAD状态
 git stash list                                              # 查看所有暂存
 git stash clear                                             # 清除所有暂存
+git stash pop                                             	# 还原到最近的暂存
+git stash pop stash{0}                                      # 还原到暂存stash{0}
 ```
 
 #### 分支管理
