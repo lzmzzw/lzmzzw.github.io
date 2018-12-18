@@ -1,7 +1,7 @@
 ﻿---
 
 layout: post
-title:  Java初始化顺序
+title:  Java零基础（3）--Java初始化顺序
 date:   2018-09-28 16:45:00 +0800
 categories: Java
 tag: Java基础
