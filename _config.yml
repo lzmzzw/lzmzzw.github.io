@@ -20,6 +20,9 @@ github_username: lzmzzw
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 baidu_analysis: bd230cffcc5be6dc17afd216048025aa
 
